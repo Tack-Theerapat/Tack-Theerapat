@@ -7,7 +7,7 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 | Project Link | Status | Completion Date | Tools | Project Description | 
 |---|---|---|---|---|
 | [Steaming-Data-Pipeline](https://github.com/Tack-Theerapat/Steaming-Data-Pipeline)|On going|---| Kafka, Spark | |
-| [Airflow-dbt-Data-Pipeline](https://github.com/Tack-Theerapat/Airflow-dbt-Data-Pipeline) | Completed |February 2024| EC2, dbt, Airflow | |
+| [Airflow-dbt-Data-Pipeline](https://github.com/Tack-Theerapat/Airflow-dbt-Data-Pipeline) | Completed |February 2024| EC2, dbt, Airflow | Schedule automation data collection from user into databases |
 ***
 
 # Data science
