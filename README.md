@@ -14,5 +14,5 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 
 | Project Link | Status | Completion Date | Tools | Project Description | 
 |---|---|---|---|---|
-| [Prediction_fares_of_NYC](https://github.com/Tack-Theerapat/Prediction_fares_of_NYC)| Completed |---| Pyspark,Numpy,Pandas | |
+| [Prediction_fares_of_NYC](https://github.com/Tack-Theerapat/Prediction_fares_of_NYC)| Completed |October 2022| Pyspark,Numpy,Pandas | |
 ***
