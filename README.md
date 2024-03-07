@@ -6,5 +6,5 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 
 | Project Link | Status | Completion Date | Tools | Project Description | 
 |---|---|---|---|---|
-| [Airflow-dbt-Data-Pipeline](https://github.com/Tack-Theerapat/Airflow-dbt-Data-Pipeline) | Completed | EC2, dbt, Airflow |---|---|
+| [Airflow-dbt-Data-Pipeline](https://github.com/Tack-Theerapat/Airflow-dbt-Data-Pipeline) | Completed |---| EC2, dbt, Airflow |---|
 ***
