@@ -1,6 +1,13 @@
 # Tack's Portfolio
 
 Welcome to my portfolio! Here, I document a summary of my projects. 
+# Web Dev
+
+| Project Link | Status | Completion Date | Tools | Project Description | 
+|---|---|---|---|---|
+| [Ecommerce](https://github.com/Tack-Theerapat/My-Ecomm)|On going|---| Next.js | |
+***
+
 
 # Data Engineering
 
