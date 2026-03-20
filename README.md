@@ -5,7 +5,7 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 
 | Project Link | Status | Completion Date | Tools | Project Description | 
 |---|---|---|---|---|
-| [Ecommerce](https://github.com/Tack-Theerapat/My-Ecomm)|On going|---| Next.js | |
+| [Ecommerce](https://github.com/Tack-Theerapat/My-Ecomm)|Stoped|---| Next.js | |
 ***
 
 
